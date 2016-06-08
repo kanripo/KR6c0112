@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:45.177773
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:46
 #+TITLE: 金剛般若義記
 #+PROPERTY: CBETA_ID T85n2740
 #+PROPERTY: ID KR6c0112
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2740
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0112_T_000-0137c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0112_T_001-0137c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.2740[cf.No.235]¶
-
- 金剛般若義記一卷上¶
+No. 2740 [cf. No. 235]¶
+金剛般若義記一卷上¶
 ¶
 
 然真宗虛寂。妙絕言像言。像既絕。豈容名¶
@@ -247,7 +246,7 @@ No.2740[cf.No.235]¶
 <pb:KR6c0112_T_001-0140b>¶
 釋云。理雖無我。而不壞假名。若不言我。則¶
 亦無聞。化道則絕。是故□□□我而得說我。¶
-如人以金易銅。賣買法爾。人無咲者世俗諦¶
+如人以金易銅。賣買法爾。人無咲者世俗帝¶
 中假名說我。智者不怪也。聞者耳根不壞。¶
 聲在可聞境。意欲作聞相。因緣和合。應言¶
 耳聞。云何言我聞。釋云。雖無神主。而不無¶
